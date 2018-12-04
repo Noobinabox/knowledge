@@ -10,3 +10,8 @@ Here is some of my knowledge collected about SQL Server during my time as a data
 * [Current Thread Waits](scripts/currentthreadwaits.sql)
 * [Check Windows Group Membership](scripts/checkgroupmembership.sql)
 * [Get Accounts with SA Access](scripts/getaccountswithsaaccess.sql)
+* [Setup Encryption](scripts/encryptionsetup.sql)
+* [Create Database Snapshot](scripts/createdatabasesnapshot.sql)
+* [Row Level Security](scripts/rowlevelsecurity.sql)
+* [Autofix Drop Orphan Users](scripts/autofixdroporphanusers.sql) - I didn't create this, but it's extremely useful
+* [Get Table Sizes](scripts/gettablesizes.sql)
