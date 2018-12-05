@@ -60,3 +60,4 @@ Here are some examples of tsql code for a quick reference.
 * [SELECT Basic](scripts/SELECT-Basic.sql)
 * [System Metadata](scripts/System-Metadata.sql)
 * [TSQL Functions](scripts/TSQL-Functions.sql)
+
