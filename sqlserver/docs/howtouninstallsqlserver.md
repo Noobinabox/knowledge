@@ -1,6 +1,7 @@
 # How to Properly Uninstall SQL Server
 This page describes how to uninstall a stand-alone instance of SQL Server.
 > **IMPORTANT!** To uninstall an instance of SQL Server, you must be a local administrator with permissions to log on as a service.
+
 ## Before you Uninstall
 1. **Back up your data.** Although this is not a required step, you might want to save the databases in their present state. You might also want to save changes that were made to the system databases. If either scenarios are true, make sure to back up the data before uninstalling SQL Server. Alternatively, save a copy of all the data and log files in a folder other than the MSSQL folder. The MSSQL folder is deleted during the un-installation.
 

@@ -28,3 +28,36 @@ Here is some of my knowledge collected about SQL Server during my time as a data
 * [How to Properly Uninstall SQL Server](docs/howtouninstallsqlserver.md)
 * [Renaming a Server that has a Stand-Alone Instance of SQL Server](docs/renaminghostwithsql.md)
 
+## SQL Server TSQL Examples
+Here are some examples of tsql code for a quick reference.
+### Tables
+* [Create](scripts\CREATE-Tables.sql)
+* [ALTER](scripts\ALTER-Tables.sql)
+* [DROP](scripts\DROP-Tables.sql)
+
+### Views
+* [Alter](scripts\ALTER-Views.sql)
+* [Create](scripts\CREATE-Views.sql)
+* [Drop](scripts\DROP-Views.sql)
+* [Indexed](scripts\Indexed-Views.sql)
+
+### Constraints
+* [Check](scripts\CHECK-Constraints.sql)
+* [Default](scripts\DEFAULT-Constraints.sql)
+* [Foreign Keys](scripts\FOREIGN_KEY-Constraints.sql)
+* [NULL](scripts\NULL-Constraints.sql)
+* [Primary Key](scripts\PRIMARY_KEY-Constraints.sql)
+* [Unique](scripts\UNIQUE-Constraints.sql)
+
+### Triggers
+* [Delete Insteadof](scripts\DELETE-INSTEADOF-Triggers.sql)
+* [Insert](scripts\INSERT-Triggers.sql)
+* [Nested](scripts\Nested-Triggers.sql)
+* [Update](scripts\UPDATE-Triggers.sql)
+
+### Select
+* [Dynamic SQL](scripts\DynamicSQL.sql)
+* [SELECT Basic](scripts\SELECT-Basic.sql)
+* [System Metadata](scripts\System-Metadata.sql)
+* [TSQL Functions](scripts\TSQL-Functions.sql)
+
