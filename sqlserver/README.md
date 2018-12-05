@@ -26,3 +26,5 @@ Here is some of my knowledge collected about SQL Server during my time as a data
 ## SQL Server Documentation
 * [Changing Standard or Enterprise SQL to Developer Edition](docs/downgradeedition.md)
 * [How to Properly Uninstall SQL Server](docs/howtouninstallsqlserver.md)
+* [Renaming a Server that has a Stand-Alone Instance of SQL Server](docs/renaminghostwithsql.md)
+

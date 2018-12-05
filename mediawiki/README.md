@@ -10,4 +10,3 @@ The offical guide to setup MediaWiki is located [here](https://www.mediawiki.org
 This was a very useful guide on setting up LDAP integration between the Linux MediaWiki server and Active Directory.
 
 [https://www.mediawiki.org/wiki/Extension:LDAP_Authentication/AD_Configuration_Examples](https://www.mediawiki.org/wiki/Extension:LDAP_Authentication/AD_Configuration_Examples)
-
