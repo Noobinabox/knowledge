@@ -15,3 +15,14 @@ Here is some of my knowledge collected about SQL Server during my time as a data
 * [Row Level Security](scripts/rowlevelsecurity.sql)
 * [Autofix Drop Orphan Users](scripts/autofixdroporphanusers.sql) - I didn't create this, but it's extremely useful
 * [Get Table Sizes](scripts/gettablesizes.sql)
+
+## SQL Server Maintenance Scripts
+* [Database Backups](scripts/usp-database-backup.sql)
+* [Index Rebuild & Reorganize](scripts/usp-index-maintenance.sql)
+* [Statistics Maintenance](scripts/usp-statistics-maintenance.sql)
+* [Setup SQL Server Agent Alerts](scripts/sqlserveragentalerts.sql)
+* [Setup SQL Server Agent Jobs for Maintenance](scripts/setupsqlagentjobsonnewserver.sql)
+
+## SQL Server Documentation
+* [Changing Standard or Enterprise SQL to Developer Edition](docs/downgradeedition.md)
+* [How to Properly Uninstall SQL Server](docs/howtouninstallsqlserver.md)
