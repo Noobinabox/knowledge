@@ -1,5 +1,4 @@
-# Database Documentation Template
-# A Developers Manual
+# Database Documentation Template - A Developers Manual
 
 ## Contents
 1. **[Introduction](#1-introduction)**
